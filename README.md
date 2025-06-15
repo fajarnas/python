@@ -1,5 +1,3 @@
-# python
-
 ## Mengirim Pesan WhatsApp Otomatis dengan pywhatkit
 
 Repositori ini berisi contoh penggunaan **pywhatkit** untuk mengirim pesan WhatsApp secara otomatis menggunakan Python.
